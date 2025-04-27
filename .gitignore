@@ -1,0 +1,27 @@
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore node_modules
+node_modules/
+
+# Ignore Apps Script clasp settings
+.clasp.json
+
+# Ignore IDE configs
+.vscode/
+.idea/
+
+# Ignore logs and temp files
+logs/
+*.log
+*.bak
+*.tmp
+
+# Allow main project files
+!README.md
+!LICENSE
+!scripts/**
+!docs/**
+!examples/**
