@@ -7,8 +7,8 @@ function importKoboSubmissions() {
   }
   const BASE_URL = "https://eu.kobotoolbox.org/api/v2/assets/";
   const FORMS = [
-    { asset_uid: "aqsanfCTzw3Ut4eYn93hup", sheet_name: "responses_formulario1" },
-    { asset_uid: "aWv4QZNmBmnkP5PwueZJcn", sheet_name: "responses_formulario2" }
+    { asset_uid: "aqsanfCTzw3Ut4eYn93hpp", sheet_name: "responses_formulario1" },
+    { asset_uid: "aWv4QZNmBmnkP5PwueZJcl", sheet_name: "responses_formulario2" }
   ];
   const spreadsheet = SpreadsheetApp.getActiveSpreadsheet();
   FORMS.forEach(form => {
