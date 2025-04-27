@@ -1,7 +1,7 @@
 # 📥 KoboToolbox Submissions to Google Sheets Integration
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Last Updated](https://img.shields.io/badge/last%20updated-July%202024-blue)
+![Last Updated](https://img.shields.io/badge/last%20updated-April%202025-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 This project uses **Google Apps Script** to integrate **KoboToolbox submitted responses** into **Google Sheets**, utilizing the official **API v2**.
