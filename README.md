@@ -35,6 +35,11 @@ Each form's responses are automatically saved into a separate sheet within the s
   - **Key**: `Authorization`
   - **Value**: Your **KoboToolbox API Token** *(do not include the word `Token`, only the value)*.
 
+ 
+ Howto get the token: 
+ - login in KoboToolbox account.
+ - Get the token : https://eu.kobotoolbox.org/token/?format=json
+
 ### 3. Define Forms to Import
 
 In the script, edit the constant `FORMS` to list your forms:
