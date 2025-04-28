@@ -48,6 +48,16 @@ const FORMS = [
 
 Each `asset_uid` is the form ID in KoboToolbox, and `sheet_name` is the name of the Google Sheets tab where the data will be saved.
 
+#### How can you check the UID?
+
+1. Start by going to your Kobo account to locate the form ID (uuid). Select the project you wish to query from your list of deployed forms. From here you can get the form ID (uuid) from the URL. The URL of the page you are currently on will follow this format:
+
+https://www.kobo.unhcr.org/#/forms/{uuid}/landing
+
+Copy the string of characters between the two slashes. See below for an example below:
+
+![uid](https://github.com/user-attachments/assets/7dc79372-6ac8-47ef-94a4-bc7fc6055ac6)
+
 ### 4. Set Up the Sheets
 
 - Manually create the tabs if needed, or the script will create them automatically.
