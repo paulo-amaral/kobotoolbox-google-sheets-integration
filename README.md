@@ -21,7 +21,8 @@ Each form's responses are automatically saved into a separate sheet within the s
 
 ---
 
-<img width="1283" alt="gscript" src="https://github.com/user-attachments/assets/edd62a9a-bb1f-4119-b229-634ecae1e6b4" />
+<img width="1283" alt="gscript" src="https://github.com/user-attachments/assets/4523bf3f-93b0-44eb-8939-bebb6276f125" />
+
 
 
 ## ⚙️ Setup
