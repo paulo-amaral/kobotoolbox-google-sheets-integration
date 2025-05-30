@@ -20,7 +20,8 @@ Each form's responses are automatically saved into a separate sheet within the s
 - Automatic hourly updates using Google Apps Script Triggers.
 
 ---
-![Uploading Screenshot 2025-05-16 at 11.55.49.png…]()
+
+<img width="1283" alt="gscript" src="https://github.com/user-attachments/assets/edd62a9a-bb1f-4119-b229-634ecae1e6b4" />
 
 
 ## ⚙️ Setup
